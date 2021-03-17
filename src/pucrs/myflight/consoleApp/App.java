@@ -12,6 +12,7 @@ public class App {
 
 		System.out.println(cia1);
 
+		// teste do gerenciado de companias aéreas
 		GerenciadorCias cadCias = new GerenciadorCias();
 		cadCias.inserir(cia1);
 		cadCias.inserir(tap);
