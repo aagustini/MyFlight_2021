@@ -10,7 +10,7 @@ public class App {
 		CiaAerea cia1 = new CiaAerea("JJ", "TAM");
 		CiaAerea tap = new CiaAerea("TP", "TAP Airlines");
 
-		System.out.println(cia1);
+		System.out.println(tap);
 
 		// teste do gerenciado de companias aéreas
 		GerenciadorCias cadCias = new GerenciadorCias();
