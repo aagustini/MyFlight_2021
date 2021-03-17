@@ -6,6 +6,7 @@ import pucrs.myflight.modelo.GerenciadorCias;
 public class App {
 
 	public static void main(String[] args) {
+		// teste da classe cia
 		CiaAerea cia1 = new CiaAerea("JJ", "TAM");
 		CiaAerea tap = new CiaAerea("TP", "TAP Airlines");
 
